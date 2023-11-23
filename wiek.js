@@ -22,8 +22,11 @@ var diff = new Date(Math.abs(date2.getTime() - date1.getTime()));
 const donia = (diff.getFullYear() - 1970);
 console.log(donia)
 
-
-
+console.log("this is my age in 4 years: " + (donia+4));
 console.log("this is my age in 5 years: " + (donia+5));
+console.log("this is my age in 6 years: " + (donia+6));
+console.log("this is my age in 7 years: " + (donia+7));
+console.log("this is my age in 8 years: " + (donia+8));
+console.log("this is my age in 9 years: " + (donia+9));
 console.log("this is my age in 10 years: " + (donia+10));
 
