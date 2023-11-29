@@ -1,6 +1,6 @@
 // {
-//  var dzis = Date();
-// console.log("hello word, today is "+ dzis); //date
+ var dzis = Date();
+console.log("hello word, today is "+ dzis); //date
 // let myAge = 35
 // console.log("This is my age in 5 years: " + (myAge+5));
 // }
