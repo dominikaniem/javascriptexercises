@@ -1,33 +1,33 @@
 // arytmetyczne
 let nbr = 5
-// console.log(nbr + 5);
-// console.log(nbr - 5);
-// console.log(nbr * 5);
-// console.log(nbr / 5);
-// console.log(nbr % 5);
-// console.log(nbr ** 5);
+console.log(nbr + 5);
+console.log(nbr - 5);
+console.log(nbr * 5);
+console.log(nbr / 5);
+console.log(nbr % 5);
+console.log(nbr ** 5);
 
 //przypisania - jakiejś wartości do zmiennej
-// // nbr = 10;
-// // nbr += 1;  //nbr = nbr +1
-// // nbr *= 2; // bo wyżej jest 11 i x2
+nbr = 10;
+nbr += 1;  //nbr = nbr +1
+nbr *= 2; // bo wyżej jest 11 i x2
 
-// // nbr ++;
-// // // nbr --;
+nbr ++;
+nbr --;
 
-// console.log(nbr);
+console.log(nbr);
 
-// Porównania:
+// porównania:
 
-// nbr = 10
-// console.log(nbr == 10);
-// console.log(nbr == "10")
-// //aby sprawdzić i typ i wartość === muszą być potójne
-// // róznonść - dodajemy !
-// console.log(nbr !== 10);
-// console.log(nbr !== "10")
-// console.log(nbr > 35);
-// console.log(nbr < 20)
+nbr = 10
+console.log(nbr == 10);
+console.log(nbr == "10")
+//aby sprawdzić i typ i wartość === muszą być potójne
+// róznonść - dodajemy !
+console.log(nbr !== 10);
+console.log(nbr !== "10")
+console.log(nbr > 35);
+console.log(nbr < 20)
 
 //logiczne (true, false, - czy warunki są spełnione)
 
