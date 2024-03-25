@@ -1,6 +1,6 @@
 var date = Date()
-console.log("hello word, today is "+ date); //date
-
+console.log("Hello word! Today is "+ date); //date
+/*Will type on console hello world and current time*/
 
 
 {
@@ -8,5 +8,5 @@ console.log("hello word, today is "+ date); //date
     console.log(a)
 }
 
-let myAge = 35
+let myAge = 36
 console.log("This is my age in 5 years: " + (myAge+5));
